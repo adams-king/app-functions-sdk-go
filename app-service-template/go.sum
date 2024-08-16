@@ -89,9 +89,11 @@ github.com/diegoholiveira/jsonlogic/v3 v3.5.3 h1:CPyZQ3fOgiIDZ1yWzPGUpyht5tYTOnR
 github.com/diegoholiveira/jsonlogic/v3 v3.5.3/go.mod h1:3nnfWovrlZq2rTpucrJ2KMIS8TMf6IoFneofmeqk/qk=
 github.com/eclipse/paho.mqtt.golang v1.4.3 h1:2kwcUGn8seMUfWndX0hGbvH8r7crgcJguQNCyp70xik=
 github.com/eclipse/paho.mqtt.golang v1.4.3/go.mod h1:CSYvoAlsMkhYOXh/oKyxa8EcBci6dVkLCbo5tTC1RIE=
+github.com/eclipse/paho.mqtt.golang v1.5.0/go.mod h1:du/2qNQVqJf/Sqs4MEL77kR8QTqANF7XU7Fk0aOTAgk=
 github.com/edgexfoundry/go-mod-bootstrap/v3 v3.2.0-dev.39 h1:s2rvot79OhMiJIlEwvovzkltnzWq+h41phmJQF80/VA=
 github.com/edgexfoundry/go-mod-bootstrap/v3 v3.2.0-dev.39/go.mod h1:1JbovKnUwAm4/H4ScaVDvTSO3JAMUIPYApKLPIooefU=
 github.com/edgexfoundry/go-mod-bootstrap/v3 v3.2.0-dev.48/go.mod h1:F0pV4YcRvoGpBaKOJFhJo2KUXsNiacNzIbkoUfdpItc=
+github.com/edgexfoundry/go-mod-bootstrap/v3 v3.2.0-dev.49/go.mod h1:F0pV4YcRvoGpBaKOJFhJo2KUXsNiacNzIbkoUfdpItc=
 github.com/edgexfoundry/go-mod-configuration/v3 v3.2.0-dev.7 h1:FTps28H9Phy/oVKJjAOdNFGVXRKXIqQo2rLQV8y5DVA=
 github.com/edgexfoundry/go-mod-configuration/v3 v3.2.0-dev.7/go.mod h1:WX+Cqr/+nXRKxNIcvekHdf5ubbTZX0D76Rj2T0FKmtA=
 github.com/edgexfoundry/go-mod-configuration/v3 v3.2.0-dev.11/go.mod h1:VoNk2R5PsCLOEcscLPH5oZOKxBluyYV1vuZ9O2qgYRA=
@@ -277,6 +279,7 @@ github.com/gorilla/securecookie v1.1.1 h1:miw7JPhV+b/lAHSXz4qd/nN9jRiAFV5FwjeKyC
 github.com/gorilla/securecookie v1.1.1/go.mod h1:ra0sb63/xPlUeL+yeDciTfxMRAA+MP+HVt/4epWDjd4=
 github.com/gorilla/websocket v1.5.1 h1:gmztn0JnHVt9JZquRuzLw3g4wouNVzKL15iLr/zn/QY=
 github.com/gorilla/websocket v1.5.1/go.mod h1:x3kM2JMyaluk02fnUJpQuwD2dCS5NDG2ZHL0uE0tcaY=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
 github.com/hashicorp/consul/api v1.28.3 h1:IE06LST/knnCQ+cxcvzyXRF/DetkgGhJoaOFd4l9xkk=
